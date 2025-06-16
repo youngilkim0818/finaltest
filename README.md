@@ -1,6 +1,6 @@
 # KMU 도서관 시스템 (KMU Library Management System)
 
-계명대학교 도서관 관리 시스템입니다. Django 웹 프레임워크로 구축되었습니다.
+국민대학교 도서관 관리 시스템입니다. Django 웹 프레임워크로 구축되었습니다.
 
 ## 주요 기능
 
